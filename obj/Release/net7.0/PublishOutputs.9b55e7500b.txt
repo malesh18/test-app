@@ -1,0 +1,7 @@
+C:\Users\Ayush\source\repos\mywebapp-01\obj\Release\net7.0\PubTmp\Out\mywebapp-01.exe
+C:\Users\Ayush\source\repos\mywebapp-01\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Ayush\source\repos\mywebapp-01\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\Ayush\source\repos\mywebapp-01\obj\Release\net7.0\PubTmp\Out\mywebapp-01.dll
+C:\Users\Ayush\source\repos\mywebapp-01\obj\Release\net7.0\PubTmp\Out\mywebapp-01.deps.json
+C:\Users\Ayush\source\repos\mywebapp-01\obj\Release\net7.0\PubTmp\Out\mywebapp-01.runtimeconfig.json
+C:\Users\Ayush\source\repos\mywebapp-01\obj\Release\net7.0\PubTmp\Out\mywebapp-01.pdb
